@@ -1,0 +1,14 @@
+{
+    "appName": "Davy's test script ",
+    "version": "1.0.0",
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "defaultUser",
+        "password": "defaultPassword"
+    },
+    "logging": {
+        "level": "info",
+        "enabled": true
+    }
+}

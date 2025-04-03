@@ -1,0 +1,12 @@
+{
+  "name": "assigment1",
+  "version": "1.0.0",
+  "description": "a package used to test my project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node serverHealthMonitor.mjs, node testscript.mjs"
+  },
+  "author": "davy",
+  "license": "ISC"
+}

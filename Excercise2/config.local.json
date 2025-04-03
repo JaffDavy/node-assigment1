@@ -1,0 +1,12 @@
+{
+    "version": "1.2.0",
+    "database": {
+        "port": 3306,
+        "password": "localPassword"
+    },
+    "logging": {
+        "enabled": false
+    },
+    "apiEndpoint": "https://local-api.example.com",
+    "additionalFeature": true
+}
